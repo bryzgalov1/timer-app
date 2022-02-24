@@ -29,3 +29,7 @@
 
 5. Для запуска приложения должно быть достаточно выполнить: npm i && npm
    start
+
+## Результат:
+
+<https://bryzgalov1.github.io/timer-app/> 
